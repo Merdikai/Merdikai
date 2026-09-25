@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d2137,60:16a37c,100:0a0a0f&height=280&section=header&text=Merdekiyos%20Tasew&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20%26%20App%20Developer%20%7C%20Addis%20Ababa,%20Ethiopia&descAlignY=60&descSize=20&animation=fadeIn&stroke=16a37c&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d2137,60:16a37c,100:0a0a0f&height=260&section=header&text=Merdekiyos%20Tasew&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20-%20Addis%20Ababa%20Ethiopia&descAlignY=60&descSize=20&animation=fadeIn&stroke=16a37c&strokeWidth=2" width="100%" />
 
 </div>
 
@@ -135,23 +135,15 @@ const merdekiyos: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/Merdikai/ClinicManagementSystem">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=ClinicManagementSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Merdikai/ClinicManagementSystem"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=ClinicManagementSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
 &nbsp;
-<a href="https://github.com/Merdikai/TmsApi">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=TmsApi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Merdikai/TmsApi"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=TmsApi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/Merdikai/church-management">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=church-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Merdikai/church-management"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=church-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
 &nbsp;
-<a href="https://github.com/Merdikai/Mini-Market">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=Mini-Market&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Merdikai/Mini-Market"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=Mini-Market&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
 
 </div>
 
@@ -161,12 +153,12 @@ const merdekiyos: Developer = {
 
 | 🚀 Project | 📝 Description | 🛠 Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **Clinic Management System** | Enterprise clinic management backend designed with Clean Architecture principles, secure authentication, and patient workflows. | C# · ASP.NET Core · Clean Architecture · SQL Server | [↗](https://github.com/Merdikai/ClinicManagementSystem) |
-| **Training Management System (TMS)** | Comprehensive enterprise training management API & frontend client for scheduling, progress tracking, and module assessments. | ASP.NET Core · Angular · TypeScript · EF Core | [↗](https://github.com/Merdikai/TmsApi) |
-| **Church Management System** | Complete church administration platform handling membership records, departmental coordination, events, and communications. | TypeScript · Full-Stack · SQL | [↗](https://github.com/Merdikai/church-management) |
-| **Health Info & Diagnostic (HIDS)** | Health Information and Diagnostic System supporting clinical diagnostics, patient tracking, and medical records. | Python · Full-Stack | [↗](https://github.com/Merdikai/HIDS) |
-| **Nail Booking App** | Intuitive appointment booking platform with service selection, real-time schedule management, and client notifications. | TypeScript · Next.js / React · Tailwind CSS | [↗](https://github.com/Merdikai/nail-booking-app) |
-| **Mini-Market Mobile App** | Mobile grocery and shopping application featuring cart management, intuitive catalog browsing, and clean UI. | Flutter · Dart · Cross-Platform | [↗](https://github.com/Merdikai/Mini-Market) |
+| **Clinic Management System** | Enterprise clinic system with Clean Architecture, patient workflows & role-based security | C# · ASP.NET Core · Clean Architecture · SQL Server | [↗](https://github.com/Merdikai/ClinicManagementSystem) |
+| **Training Management (TMS)** | Enterprise training platform with automated scheduling, course tracking & assessments | ASP.NET Core · Angular · TypeScript · EF Core | [↗](https://github.com/Merdikai/TmsApi) |
+| **Church Management System** | Centralized administration platform managing member records, departments & events | TypeScript · Full-Stack · SQL | [↗](https://github.com/Merdikai/church-management) |
+| **Mini-Market Mobile App** | Cross-platform grocery & retail mobile app with intuitive cart, catalog & clean UI | Flutter · Dart · Cross-Platform | [↗](https://github.com/Merdikai/Mini-Market) |
+| **Health Diagnostic (HIDS)** | Clinical health & diagnostic records system supporting patient diagnostic workflows | Python · Full-Stack | [↗](https://github.com/Merdikai/HIDS) |
+| **Nail Booking Platform** | Interactive appointment booking platform with real-time slot scheduling & notifications | TypeScript · Next.js · Tailwind CSS | [↗](https://github.com/Merdikai/nail-booking-app) |
 
 </div>
 
