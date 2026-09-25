@@ -66,7 +66,7 @@ const merdekiyos: Developer = {
   location:   "Addis Ababa, Ethiopia 🇪🇹",
   role:       "Full-Stack & App Developer",
   education:  "B.Sc. in Computer Science",
-  languages:  ["C#", "TypeScript", "JavaScript", "Dart", "Python", "SQL"],
+  languages:  ["C#", "TypeScript", "JavaScript", "Dart", "SQL"],
   frameworks: [".NET / ASP.NET Core", "Angular", "React", "Next.js", "Flutter"],
   databases:  ["SQL Server", "PostgreSQL", "MongoDB", "MySQL"],
   interests:  ["Clean Architecture", "Mobile Development", "System Design", "Cloud"],
@@ -88,13 +88,13 @@ const merdekiyos: Developer = {
 
 **— Backend & Database —**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,postgres,mongodb,mysql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgres,mongodb,mysql&theme=dark&perline=8" />
 
 <br/><br/>
 
 **— Tools & Platforms —**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,scalar,swagger&theme=dark&perline=7" />
 
 </div>
 
@@ -108,7 +108,7 @@ const merdekiyos: Developer = {
 | **Frontend** | Angular · React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3 |
 | **Mobile** | Flutter · Dart · Cross-Platform App Development |
 | **Databases** | Microsoft SQL Server · PostgreSQL · MongoDB · MySQL |
-| **Tools & DevOps** | Git · GitHub · Docker · Postman · VS Code · Visual Studio · Linux |
+| **Tools & DevOps** | Git · GitHub · Docker · Postman · Scalar · VS Code · Visual Studio · Swagger |
 
 </div>
 
@@ -118,14 +118,14 @@ const merdekiyos: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Merdikai&theme=tokyonight&hide_border=true&background=0d1117&ring=16a37c&fire=16a37c&currStreakLabel=16a37c&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Merdikai&theme=tokyonight&hide_border=true&background=0d1117&ring=16a37c&fire=16a37c&currStreakLabel=16a37c&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Merdikai&bg_color=0d1117&color=16a37c&line=16a37c&point=ffffff&area=true&hide_border=true" />
+<img width="46%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9" />
+&nbsp;
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merdikai&theme=tokyonight" />
 
 </div>
 
@@ -136,21 +136,21 @@ const merdekiyos: Developer = {
 <div align="center">
 
 <a href="https://github.com/Merdikai/ClinicManagementSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merdikai&repo=ClinicManagementSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Merdikai&repo=ClinicManagementSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/Merdikai/TmsApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merdikai&repo=TmsApi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Merdikai&repo=TmsApi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Merdikai/church-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merdikai&repo=church-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Merdikai&repo=church-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/Merdikai/Mini-Market">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merdikai&repo=Mini-Market&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Merdikai&repo=Mini-Market&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" />
 </a>
 
 </div>
