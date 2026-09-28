@@ -148,13 +148,19 @@ const merdekiyos: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/Merdikai/ClinicManagementSystem"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=ClinicManagementSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
+<a href="https://github.com/Merdikai/ClinicManagementSystem"><img width="49%" src="assets/repo-cms.svg" alt="ClinicManagementSystem" /></a>
 &nbsp;
-<a href="https://github.com/Merdikai/TmsApi"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=TmsApi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
+<a href="https://github.com/Merdikai/TmsApi"><img width="49%" src="assets/repo-tms.svg" alt="TmsApi" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/Merdikai/church-management"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=church-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
+<a href="https://github.com/Merdikai/church-management"><img width="49%" src="assets/repo-church.svg" alt="church-management" /></a>
+&nbsp;
+<a href="https://github.com/Merdikai/nail-booking-app"><img width="49%" src="assets/repo-nail.svg" alt="nail-booking-app" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/Merdikai/HIDS"><img width="49%" src="assets/repo-hids.svg" alt="HIDS" /></a>
 
 </div>
 
