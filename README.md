@@ -117,11 +117,11 @@ const merdekiyos: Developer = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Repositories-14-16a37c?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-16-16a37c?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Followers-8-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-298%2B-16a37c?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contributions-299%2B-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Pull%20Requests-19-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
