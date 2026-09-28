@@ -16,15 +16,15 @@
 
 <a href="https://github.com/Merdikai/Merdekiyos-Tasew-Portofolio"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-merdekiyos.dev-16a37c?style=for-the-badge&labelColor=0d1117" /></a>
 &nbsp;
-<a href="mailto:merdekiyostasew@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Contact%20Me-EA4335?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="mailto:merdekiyostasew@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-merdekiyostasew%40gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/merdekiyos-tasew"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-merdekiyos-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/merdekiyos-tasew"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-merdekiyos--tasew-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
 
 <br/><br/>
 
 <a href="https://github.com/Merdikai"><img src="https://img.shields.io/badge/%F0%9F%90%B1%20GitHub-Merdikai-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://t.me/merdekiyos"><img src="https://img.shields.io/badge/%F0%9F%93%A8%20Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://t.me/Merdi27"><img src="https://img.shields.io/badge/%F0%9F%93%A8%20Telegram-%40Merdi27-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
@@ -67,9 +67,9 @@ const merdekiyos: Developer = {
   role:       "Full-Stack & App Developer",
   education:  "B.Sc. in Computer Science",
   languages:  ["C#", "TypeScript", "JavaScript", "Dart", "SQL"],
-  frameworks: [".NET / ASP.NET Core", "Angular", "React", "Next.js", "Flutter"],
-  databases:  ["SQL Server", "PostgreSQL", "MongoDB", "MySQL"],
-  interests:  ["Clean Architecture", "Mobile Development", "System Design", "Cloud"],
+  frameworks: [".NET / ASP.NET Core", "Angular", "React", "Flutter"],
+  databases:  ["SQL Server", "PostgreSQL", "MySQL"],
+  interests:  ["Clean Architecture", "Mobile Development", "System Design"],
   available:  true, // Open to opportunities & collaborations!
 }
 ```
@@ -82,13 +82,13 @@ const merdekiyos: Developer = {
 
 **— Frontend & Mobile —**
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,flutter,dart&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,flutter,dart&theme=dark&perline=10" />
 
 <br/><br/>
 
 **— Backend & Database —**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,postgres,mongodb,mysql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,supabase,mysql&theme=dark&perline=8" />
 
 <br/><br/>
 
@@ -104,11 +104,11 @@ const merdekiyos: Developer = {
 
 | Category | Technologies |
 |:---:|:---|
-| **Backend** | C# · ASP.NET Core · Web API · Entity Framework Core · Clean Architecture · Node.js · Express |
+| **Backend** | C# · ASP.NET Core · Web API · Entity Framework Core · Clean Architecture · Node.js |
 | **Frontend** | Angular · React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3 |
 | **Mobile** | Flutter · Dart · Cross-Platform App Development |
-| **Databases** | Microsoft SQL Server · PostgreSQL · MongoDB · MySQL |
-| **Tools & DevOps** | Git · GitHub · Docker · Postman · Scalar · VS Code · Visual Studio · Linux |
+| **Databases** | Microsoft SQL Server · PostgreSQL · supabase · MySQL |
+| **Tools & DevOps** | Git · GitHub · Docker · Postman · swagger · Scalar · VS Code · Visual Studio |
 
 </div>
 
@@ -118,12 +118,12 @@ const merdekiyos: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c&hide=issues" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Merdikai&theme=tokyonight&hide_border=true&background=0d1117&ring=16a37c&fire=16a37c&currStreakLabel=16a37c&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="46%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9" />
+<img width="46%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9&hide=html,css,scss,php,hack,cmake" />
 &nbsp;
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merdikai&theme=tokyonight" />
 
@@ -142,8 +142,6 @@ const merdekiyos: Developer = {
 <br/><br/>
 
 <a href="https://github.com/Merdikai/church-management"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=church-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
-&nbsp;
-<a href="https://github.com/Merdikai/Mini-Market"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Merdikai&repo=Mini-Market&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9" /></a>
 
 </div>
 
@@ -156,7 +154,6 @@ const merdekiyos: Developer = {
 | **Clinic Management System** | Enterprise clinic system with Clean Architecture, patient workflows & role-based security | C# · ASP.NET Core · Clean Architecture · SQL Server | [↗](https://github.com/Merdikai/ClinicManagementSystem) |
 | **Training Management (TMS)** | Enterprise training platform with automated scheduling, course tracking & assessments | ASP.NET Core · Angular · TypeScript · EF Core | [↗](https://github.com/Merdikai/TmsApi) |
 | **Church Management System** | Centralized administration platform managing member records, departments & events | TypeScript · Full-Stack · SQL | [↗](https://github.com/Merdikai/church-management) |
-| **Mini-Market Mobile App** | Cross-platform grocery & retail mobile app with intuitive cart, catalog & clean UI | Flutter · Dart · Cross-Platform | [↗](https://github.com/Merdikai/Mini-Market) |
 | **Health Diagnostic (HIDS)** | Clinical health & diagnostic records system supporting patient diagnostic workflows | Python · Full-Stack | [↗](https://github.com/Merdikai/HIDS) |
 | **Nail Booking Platform** | Interactive appointment booking platform with real-time slot scheduling & notifications | TypeScript · Next.js · Tailwind CSS | [↗](https://github.com/Merdikai/nail-booking-app) |
 
@@ -229,15 +226,19 @@ const merdekiyos: Developer = {
 <br/>
 
 <a href="mailto:merdekiyostasew@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-merdekiyostasew%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://t.me/merdekiyos">
-  <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+<a href="https://t.me/Merdi27">
+  <img src="https://img.shields.io/badge/Telegram-%40Merdi27-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/merdekiyos-tasew">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Merdekiyos%20Tasew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="tel:+251953913418">
+  <img src="https://img.shields.io/badge/Phone-%2B251%20953%20913%20418-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
