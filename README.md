@@ -117,15 +117,25 @@ const merdekiyos: Developer = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; GitHub Stats
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-203%2B-16a37c?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public%20Repos-14-16a37c?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pull%20Requests-19-16a37c?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contributions-237%2B-16a37c?style=flat-square&labelColor=0d1117" />
+</div>
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c&hide=issues" />
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c&hide=issues,contribs&hide_rank=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Merdikai&theme=tokyonight&hide_border=true&background=0d1117&ring=16a37c&fire=16a37c&currStreakLabel=16a37c&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="46%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9&hide=html,css,scss,php,hack,cmake" />
-&nbsp;
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merdikai&theme=tokyonight" />
+<img width="58%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9&hide=html,css,scss,php,hack,cmake" />
 
 </div>
 
