@@ -1,0 +1,67 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #16a37c; }
+    .stat-label { font: 500 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .stat-val { font: 700 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #16a37c; }
+    .rank-sub { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .icon { fill: #16a37c; }
+  </style>
+
+  <!-- Background -->
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0d1117" stroke="#16a37c" stroke-width="1.2" stroke-opacity="0.6"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="url(#grad)" fill-opacity="0.15"/>
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a37c"/>
+      <stop offset="100%" stop-color="#0d2137"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <!-- GitHub Octocat Icon -->
+    <path class="icon" d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" transform="scale(0.8) translate(0, -3)"/>
+    <text x="28" y="14" class="header">Merdi kai's GitHub Stats</text>
+  </g>
+
+  <!-- Left Stats Column -->
+  <g transform="translate(25, 75)">
+    <!-- Total Contributions -->
+    <g transform="translate(0, 0)">
+      <path class="icon" d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.5 7.5l-3 3a.5.5 0 01-.7 0l-1.5-1.5a.5.5 0 11.7-.7l1.15 1.15 2.65-2.65a.5.5 0 01.7.7z" transform="scale(0.9) translate(0, -2)"/>
+      <text x="22" y="10" class="stat-label">Total Contributions (Year):</text>
+      <text x="195" y="10" class="stat-val">298</text>
+    </g>
+
+    <!-- Total Commits -->
+    <g transform="translate(0, 30)">
+      <path class="icon" d="M10.5 4.5a3.5 3.5 0 00-3.46 3H5.96a3.5 3.5 0 00-3.46-3 3.5 3.5 0 000 7 3.5 3.5 0 003.46-3h1.08a3.5 3.5 0 003.46 3 3.5 3.5 0 000-7zM2.5 8a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zm8 1.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3z" transform="scale(0.9) translate(0, -2)"/>
+      <text x="22" y="10" class="stat-label">Total Commits (Public):</text>
+      <text x="195" y="10" class="stat-val">207</text>
+    </g>
+
+    <!-- Pull Requests -->
+    <g transform="translate(0, 60)">
+      <path class="icon" d="M7 1.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zm-5 7a2.5 2.5 0 100 5 2.5 2.5 0 000-5zm10 0a2.5 2.5 0 100 5 2.5 2.5 0 000-5z" transform="scale(0.9) translate(0, -2)"/>
+      <text x="22" y="10" class="stat-label">Pull Requests Merged:</text>
+      <text x="195" y="10" class="stat-val">19</text>
+    </g>
+
+    <!-- Repositories & Stars -->
+    <g transform="translate(0, 90)">
+      <path class="icon" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 010-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 11-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5z" transform="scale(0.9) translate(0, -2)"/>
+      <text x="22" y="10" class="stat-label">Public Repositories:</text>
+      <text x="195" y="10" class="stat-val">14</text>
+    </g>
+  </g>
+
+  <!-- Right Rank / Performance Badge -->
+  <g transform="translate(380, 110)">
+    <circle cx="0" cy="0" r="42" fill="#0d1117" stroke="#16a37c" stroke-width="3" stroke-dasharray="230" stroke-dashoffset="35"/>
+    <circle cx="0" cy="0" r="34" fill="#16a37c" fill-opacity="0.1"/>
+    <text x="0" y="6" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="58" text-anchor="middle" class="rank-sub">TOP CONTRIBUTOR</text>
+  </g>
+</svg>

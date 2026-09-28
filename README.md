@@ -117,11 +117,13 @@ const merdekiyos: Developer = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMerdikai&query=%24.public_repos&label=Repositories&style=flat-square&color=16a37c&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-14-16a37c?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Merdikai?style=flat-square&color=16a37c&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Followers-8-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Contributions-298%2B-16a37c?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pull%20Requests-19-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Merdikai&label=Profile+Views&color=16a37c&style=flat-square" />
 </div>
@@ -130,12 +132,13 @@ const merdekiyos: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Merdikai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=16a37c&icon_color=16a37c&text_color=c9d1d9&ring_color=16a37c&hide=issues,contribs&hide_rank=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Merdikai&theme=tokyonight&hide_border=true&background=0d1117&ring=16a37c&fire=16a37c&currStreakLabel=16a37c&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&cache_seconds=1800" />
+<img width="49%" src="assets/stats.svg" />
+&nbsp;
+<img width="49%" src="assets/streak.svg" />
 
 <br/><br/>
 
-<img width="58%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Merdikai&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16a37c&text_color=c9d1d9&hide=html,css,scss,php,hack,cmake&cache_seconds=1800" />
+<img width="58%" src="assets/languages.svg" />
 
 </div>
 

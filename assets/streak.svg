@@ -1,0 +1,46 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .streak-title { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #16a37c; }
+    .streak-num { font: 800 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .streak-sub { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .fire-icon { fill: #16a37c; }
+  </style>
+
+  <!-- Background -->
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0d1117" stroke="#16a37c" stroke-width="1.2" stroke-opacity="0.6"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="url(#grad2)" fill-opacity="0.15"/>
+
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d2137"/>
+      <stop offset="100%" stop-color="#16a37c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dividers -->
+  <line x1="165" y1="30" x2="165" y2="165" stroke="#30363d" stroke-width="1"/>
+  <line x1="330" y1="30" x2="330" y2="165" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Left Column: Total Contributions -->
+  <g transform="translate(82, 60)">
+    <text x="0" y="0" text-anchor="middle" class="streak-num">298</text>
+    <text x="0" y="32" text-anchor="middle" class="streak-title">Total Contributions</text>
+    <text x="0" y="52" text-anchor="middle" class="streak-sub">2026 / Last Year</text>
+  </g>
+
+  <!-- Middle Column: Current Status / Fire -->
+  <g transform="translate(247, 45)">
+    <!-- Fire Icon -->
+    <path class="fire-icon" d="M12 23c6.075 0 11-4.925 11-11 0-4.048-2.189-7.585-5.45-9.524-.436-.26-.988.083-.93.585.414 3.593-1.026 6.079-3.08 7.391C12.355 4.382 9.07 1 9.07 1s-.418 3.962-1.996 6.136C5.556 9.243 4.5 11.233 4.5 13.5 4.5 18.747 7.858 23 12 23z" transform="translate(-12, -15) scale(1)"/>
+    <text x="0" y="42" text-anchor="middle" class="streak-num">Active</text>
+    <text x="0" y="68" text-anchor="middle" class="streak-title">Contribution Streak</text>
+    <text x="0" y="86" text-anchor="middle" class="streak-sub">Regular Active Commits</text>
+  </g>
+
+  <!-- Right Column: Longest Streak -->
+  <g transform="translate(412, 60)">
+    <text x="0" y="0" text-anchor="middle" class="streak-num">10</text>
+    <text x="0" y="32" text-anchor="middle" class="streak-title">Longest Streak</text>
+    <text x="0" y="52" text-anchor="middle" class="streak-sub">Consecutive Days</text>
+  </g>
+</svg>
