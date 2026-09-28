@@ -121,7 +121,7 @@ const merdekiyos: Developer = {
   &nbsp;
   <img src="https://img.shields.io/github/followers/Merdikai?style=flat-square&color=16a37c&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-238%2B-16a37c?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contributions-298%2B-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Merdikai&label=Profile+Views&color=16a37c&style=flat-square" />
 </div>
