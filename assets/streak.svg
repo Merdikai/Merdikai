@@ -23,7 +23,7 @@
 
   <!-- Left Column: Total Contributions -->
   <g transform="translate(82, 60)">
-    <text x="0" y="0" text-anchor="middle" class="streak-num">370</text>
+    <text x="0" y="0" text-anchor="middle" class="streak-num">374</text>
     <text x="0" y="32" text-anchor="middle" class="streak-title">Total Contributions</text>
     <text x="0" y="52" text-anchor="middle" class="streak-sub">2026 / Last Year</text>
   </g>
