@@ -121,9 +121,9 @@ const merdekiyos: Developer = {
   &nbsp;
   <img src="https://img.shields.io/badge/Followers-8-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-940%2B-16a37c?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contributions-949%2B-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Pull%20Requests-19-16a37c?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-21-16a37c?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Merdikai&label=Profile+Views&color=16a37c&style=flat-square" />
 </div>
